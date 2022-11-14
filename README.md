@@ -2,11 +2,11 @@
 A small tool to load and visualize electrical vehicle (EV) charging station information in germany
 
 ```
-©À©¤©¤ README.md
-©À©¤©¤ _Parser.py                    parse API data (data source deprecated)
-©À©¤©¤ Load_API.py                   API data parser
-©À©¤©¤ sql_server.py                 sql processing functions
-©¸©¤©¤ Use_Case.py                   User Interface
+-- README.md
+-- _Parser.py                    parse API data (data source deprecated)
+-- Load_API.py                   API data parser
+-- sql_server.py                 sql processing functions
+-- Use_Case.py                   User Interface
 ```
 
 ## Achitecture
