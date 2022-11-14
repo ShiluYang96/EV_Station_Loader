@@ -3,5 +3,5 @@ A small tool to load and visualize electrical charging station information
 
 ## Structure
 
-![structure](./Achitecture.png)
+![structure](./achitecture.png)
 
